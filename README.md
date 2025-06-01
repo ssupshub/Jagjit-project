@@ -55,7 +55,7 @@ npm install
 Create a file `.env` in the `backend/` folder:
 
 ```env
-MONGODB_URI=mongodb+srv://admin:admin@cluster0.jrcbnji.mongodb.net/learningTracker?retryWrites=true&w=majority&appName=Cluster0
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.abcde.mongodb.net/learningTracker?retryWrites=true&w=majority
 ```
 
 ### 4. Start the Backend Server
